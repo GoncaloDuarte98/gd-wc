@@ -1,0 +1,9 @@
+node_modules/
+/lib/
+/test/
+custom-elements.json
+# top level source
+gd-wc-header.js
+gd-wc-header.js.map
+gd-wc-header.d.ts
+gd-wc-header.d.ts.map
