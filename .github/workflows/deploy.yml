@@ -6,6 +6,7 @@ on:
       - master
 jobs:
   deploy:
+    steps:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
