@@ -12,7 +12,7 @@ import replace from '@rollup/plugin-replace';
 export default {
   input: 'my-element.js',
   output: {
-    file: 'my-element.bundled.js',
+    file: '../../build/gd-wc-header.js',
     format: 'esm',
   },
   onwarn(warning) {
