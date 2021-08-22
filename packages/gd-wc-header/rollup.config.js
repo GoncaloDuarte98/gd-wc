@@ -8,11 +8,10 @@ import summary from 'rollup-plugin-summary';
 import {terser} from 'rollup-plugin-terser';
 import resolve from '@rollup/plugin-node-resolve';
 import replace from '@rollup/plugin-replace';
-import gzipPlugin from 'rollup-plugin-gzip'
 
 
 export default {
-  input: 'my-element.js',
+  input: 'gd-wc-header.js',
   output: {
     file: '../../build/gd-wc-header.js',
     format: 'esm',
@@ -23,7 +22,6 @@ export default {
     }
   },
   plugins: [
-    gzipPlugin(),
     replace({'Reflect.decorate': 'undefined'}),
     resolve(),
     terser({

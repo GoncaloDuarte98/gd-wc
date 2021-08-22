@@ -43,7 +43,7 @@ const Pt=(t,i)=>"method"===i.kind&&i.descriptor&&!("value"in i.descriptor)?{...i
  * Copyright 2019 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause
  */}var Rt=function(t,i,s,e){for(var o,n=arguments.length,h=n<3?i:null===e?e=Object.getOwnPropertyDescriptor(i,s):e,l=t.length-1;l>=0;l--)(o=t[l])&&(h=(n<3?o(h):n>3?o(i,s,h):o(i,s))||h);return n>3&&h&&Object.defineProperty(i,s,h),h};let zt=class extends Ot{constructor(){super(...arguments),this.name="World",this.count=0}render(){return at`
-      <h1>Hello, ${this.name}!</h1>
+      <h1>Hello headerg, ${this.name}!</h1>
       <button @click=${this._onClick} part="button">
         Click Count: ${this.count}
       </button>
