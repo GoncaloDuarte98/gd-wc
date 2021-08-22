@@ -1,15 +1,21 @@
-name: Deploy Gh pages
+
+name: Deploy GitHub Pages
 
 on:
   push:
     branches:
       - master
+
 jobs:
-  deploy:
-  runs-on: ubuntu-18.04
+
+  build-and-deploy:
+    runs-on: ubuntu-18.04
+  
     steps:
-      - name: Deploy
+
+    - name: Deploy GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.ref == 'refs/heads/master' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
+        publish_dir: ./dist
