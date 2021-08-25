@@ -28,7 +28,7 @@ export class GdWcHeader extends LitElement {
    * The name to say "Hello" to.
    */
   @property()
-  name = 'World';
+  name = 'Worlcd';
 
   /**
    * The number of times the button has been clicked.
