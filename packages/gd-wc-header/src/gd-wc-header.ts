@@ -38,7 +38,7 @@ export class GdWcHeader extends LitElement {
 
   render() {
     return html`
-      <h1>Hello headerxg, ${this.name}!</h1>
+      <h1>Hellos headerxg, ${this.name}!</h1>
       <button @click=${this._onClick} part="button">
         Click Count: ${this.count}
       </button>
