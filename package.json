@@ -6,6 +6,7 @@
     "validate-commit-msg": "^2.14.0"
   },
   "scripts":{
+    "prepare" :"husky install",
     "commitmsg": "validate-commit-msg"
   },
   "workspaces": [
