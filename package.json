@@ -2,11 +2,16 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "validate-commit-msg": "^2.14.0"
+  },
+  "scripts":{
+    "commitmsg": "validate-commit-msg"
   },
   "workspaces": [
     "packages/*"
-  ]
-
-
+  ],
+  "dependencies": {
+    "husky": "^7.0.2"
+  }
 }
