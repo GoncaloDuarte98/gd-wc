@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/GoncaloDuarte98/gd-wc/compare/gd-wc-header@0.4.0...gd-wc-header@0.5.0) (2021-08-25)
+
+
+### Features
+
+* **a:** a ([1d6f62e](https://github.com/GoncaloDuarte98/gd-wc/commit/1d6f62e0b8f23e8a542745e904cdd511218f20db))
+* shortt ([691117b](https://github.com/GoncaloDuarte98/gd-wc/commit/691117b97871147ee7148904d669f6d98d8c7464))
+
+
+### BREAKING CHANGES
+
+* **a:** a
+
+
+
+
+
 # [0.4.0](https://github.com/GoncaloDuarte98/gd-wc/compare/gd-wc-header@0.3.0...gd-wc-header@0.4.0) (2021-08-25)
 
 
