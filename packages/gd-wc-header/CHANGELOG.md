@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/GoncaloDuarte98/gd-wc/compare/gd-wc-header@0.2.1...gd-wc-header@0.2.2) (2021-08-25)
+
+
+### Bug Fixes
+
+* **a:** a ([bd0f947](https://github.com/GoncaloDuarte98/gd-wc/commit/bd0f9479d17653a128775270021668a7abe776fe))
+
+
+
+
+
 ## [0.2.1](https://github.com/GoncaloDuarte98/gd-wc/compare/gd-wc-header@0.2.0...gd-wc-header@0.2.1) (2021-08-25)
 
 
