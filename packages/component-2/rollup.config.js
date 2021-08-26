@@ -11,7 +11,7 @@ import replace from '@rollup/plugin-replace';
 
 
 export default {
-  input: 'component-2.js',
+  input: './build/component-2.js',
   output: {
     file: '../../build/component-2.js',
     format: 'esm',

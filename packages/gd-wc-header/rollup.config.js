@@ -11,7 +11,7 @@ import replace from '@rollup/plugin-replace';
 
 
 export default {
-  input: 'gd-wc-header.js',
+  input: './build/gd-wc-header.js',
   output: {
     file: '../../build/gd-wc-header.js',
     format: 'esm',
