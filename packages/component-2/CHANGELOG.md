@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.2](https://github.com/GoncaloDuarte98/gd-wc/compare/component-2@0.7.1...component-2@0.0.2) (2021-08-26)
+
+
+### Bug Fixes
+
+* ahahahha ([85e5c40](https://github.com/GoncaloDuarte98/gd-wc/commit/85e5c40a080ffd981c5341fd10f614fc85f7ea80))
+* **d:** d ([7c0c87e](https://github.com/GoncaloDuarte98/gd-wc/commit/7c0c87e129cfea540cbd8b05882009d24e75b873))
+
+
+
+
+
 ## [0.7.1](https://github.com/GoncaloDuarte98/gd-wc/compare/component-2@0.7.0...component-2@0.7.1) (2021-08-26)
 
 
