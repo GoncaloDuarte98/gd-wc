@@ -40,7 +40,7 @@ export class GdWcHeader extends LitElement {
     return html`
       <h1>Hellos headerxg, ${this.name}!</h1>
       <button @click=${this._onClick} part="button">
-        Click new feat 5.1.1: ${this.count}
+        Click new fedwdwdwdat 5.1.1: ${this.count}
       </button>
       <slot></slot>
     `;
