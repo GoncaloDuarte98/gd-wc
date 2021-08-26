@@ -5,7 +5,7 @@
  */
 
 import {LitElement, html, css} from 'lit';
-import {customElement, property} from 'lit/decorators.js';
+import {customElement} from 'lit/decorators.js';
 
 /**
  * An example element.
@@ -13,11 +13,11 @@ import {customElement, property} from 'lit/decorators.js';
  * @slot - This element has a slot
  * @csspart button - The button
  */
-@customElement('gd-wc-header')
-export class GdWcHeader extends LitElement {
+@customElement('component-2')
+export class Component2 extends LitElement {
   static styles = css`
       div{
-        background-color:red;
+        background-color: lightblue;
         width:300px;
         text-align: center;
         padding: 10px;
@@ -30,7 +30,7 @@ export class GdWcHeader extends LitElement {
   render() {
     return html`
     <div>
-      <p>I am a component 1</p>
+      <p>I am a component 2</p>
     </div>
     
     `;
@@ -39,6 +39,6 @@ export class GdWcHeader extends LitElement {
 
 declare global {
   interface HTMLElementTagNameMap {
-    'gd-wc-header': GdWcHeader;
+    'component-2': Component2;
   }
 }
