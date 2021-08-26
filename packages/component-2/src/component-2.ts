@@ -30,7 +30,7 @@ export class Component2 extends LitElement {
   render() {
     return html`
     <div>
-      <p>I am a component 2</p>
+      <p>I am component 2</p>
     </div>
     
     `;
