@@ -30,7 +30,7 @@ export class GdWcHeader extends LitElement {
   render() {
     return html`
     <div>
-      <p>I am a component 1</p>
+      <p>I am component 1</p>
     </div>
     
     `;
