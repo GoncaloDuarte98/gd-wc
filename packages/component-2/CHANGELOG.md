@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1](https://github.com/GoncaloDuarte98/gd-wc/compare/component-2@0.7.0...component-2@0.7.1) (2021-08-26)
+
+
+### Bug Fixes
+
+* fix ([386be3c](https://github.com/GoncaloDuarte98/gd-wc/commit/386be3c10574a6c9292ca22d690af7f230b88ae2))
+
+
+
+
+
 # 0.7.0 (2021-08-26)
 
 
