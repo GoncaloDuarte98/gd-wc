@@ -8,6 +8,7 @@
     "@storybook/addon-links": "^6.3.7",
     "@storybook/web-components": "^6.3.7",
     "babel-loader": "^8.2.2",
+    "concurrently": "^6.2.1",
     "lerna": "^4.0.0",
     "validate-commit-msg": "^2.14.0"
   },
@@ -15,7 +16,8 @@
     "prepare": "husky install",
     "commitmsg": "validate-commit-msg",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "start": "concurrently --kill-others \" yarn storybook \" \" lerna run build:watch --parallel \""
   },
   "workspaces": [
     "packages/*"

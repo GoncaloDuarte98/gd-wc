@@ -30,6 +30,7 @@
   "author": "Google LLC",
   "license": "BSD-3-Clause",
   "dependencies": {
+    "gd-wc-header": "^0.7.1",
     "lit": "^2.0.0-rc.1"
   },
   "devDependencies": {
