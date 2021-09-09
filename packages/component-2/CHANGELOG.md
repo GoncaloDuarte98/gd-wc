@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/GoncaloDuarte98/gd-wc/compare/component-2@0.0.5...component-2@0.1.0) (2021-09-09)
+
+
+### Features
+
+* sdsdsds ([f009c81](https://github.com/GoncaloDuarte98/gd-wc/commit/f009c81b259142ce0325fa066a9d41cf83c8c05a))
+
+
+
+
+
 ## [0.0.5](https://github.com/GoncaloDuarte98/gd-wc/compare/component-2@0.0.4...component-2@0.0.5) (2021-09-09)
 
 **Note:** Version bump only for package component-2
