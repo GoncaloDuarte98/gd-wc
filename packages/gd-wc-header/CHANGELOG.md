@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.5](https://github.com/GoncaloDuarte98/gd-wc/compare/gd-wc-header@0.7.4...gd-wc-header@0.7.5) (2021-09-09)
+
+
+### Bug Fixes
+
+* shorttjhth ([8663525](https://github.com/GoncaloDuarte98/gd-wc/commit/8663525271574a939dccdc51a070ea58de3d75a8))
+
+
+
+
+
 ## [0.7.3](https://github.com/GoncaloDuarte98/gd-wc/compare/gd-wc-header@0.7.2...gd-wc-header@0.7.3) (2021-08-26)
 
 
