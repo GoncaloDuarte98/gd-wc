@@ -13,7 +13,7 @@
     "validate-commit-msg": "^2.14.0"
   },
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky install & npx husky add .husky/commit-msg \"npm validate-commit-msg\" ",
     "commitmsg": "validate-commit-msg",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
