@@ -26,11 +26,14 @@ export class GdWcHeader extends LitElement {
         border-radius:15px;
       }
   `;
+l
+    
 
   render() {
     return html`
     <div>
       <p>I am component 1 v2</p>
+      
     </div>
     
     `;
