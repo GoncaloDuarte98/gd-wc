@@ -1,7 +1,7 @@
 {
   "name": "component-2",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple web component",
   "main": "component-2.js",
   "module": "component-2.js",
@@ -30,7 +30,7 @@
   "author": "Google LLC",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "gd-wc-header": "^0.7.3",
+    "gd-wc-header": "^0.7.4",
     "lit": "^2.0.0-rc.1"
   },
   "devDependencies": {

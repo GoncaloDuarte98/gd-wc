@@ -1,7 +1,7 @@
 {
   "name": "gd-wc-header",
   "private": false,
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "A simple web component",
   "main": "gd-wc-header.js",
   "module": "gd-wc-header.js",
