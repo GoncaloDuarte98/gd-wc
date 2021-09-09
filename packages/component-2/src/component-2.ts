@@ -23,7 +23,7 @@ export class Component2 extends LitElement {
         padding: 10px;
         font-family: Arial, Helvetica, sans-serif;
         color:#fafafa;
-        border-radius:12px;
+        border-radius:11px;
         display:flex;
         flex-direction:column;
         align-items:center;
